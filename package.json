@@ -1,0 +1,23 @@
+{
+  "name": "introtonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boomgreen87/introToNode.git"
+  },
+  "keywords": [],
+  "author": "SO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boomgreen87/introToNode/issues"
+  },
+  "homepage": "https://github.com/boomgreen87/introToNode#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
