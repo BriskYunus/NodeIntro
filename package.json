@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/boomgreen87/introToNode#readme",
   "dependencies": {
-    "mysql": "^2.17.1"
+    "mysql": "^2.18.0"
   }
 }
